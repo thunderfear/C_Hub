@@ -1,4 +1,4 @@
-# JavaHub & CodeDriver[牧码南山Java团队]
+# C_Hub & CodeDriver[牧码南山C/C++团队]
 
 ​![github](https://img.shields.io/badge/JavaHub-SpringBoot-brightgreen.svg) ![github](https://img.shields.io/badge/JavaHub-SpringCloud-brightgreen.svg) ![github](https://img.shields.io/badge/JavaHub-MyBatisPlus-brightgreen.svg) ​![github](https://img.shields.io/badge/JavaHub-%E5%A4%A7%E6%95%B0%E6%8D%AE-brightgreen.svg)​
 
@@ -10,16 +10,13 @@
 
 ### 历届负责人
 
-现负责人员[2023 第六届]：👩‍💻史佳颖[^Profile^](https://github.com/qinranguchangsheng)，👨‍💻何江涛[^Profile^](https://github.com/Tiga111)，👨‍💻何人杰[^Profile^](https://github.com/h5933567)，👨‍💻牛彬宇[^Profile^](https://github.com/strgundam)；
+现负责人员[2023 第六届]：👩‍💻徐铮[^Profile^](https://github.com/qinranguchangsheng)，👨‍💻张梦麒[^Profile^](https://github.com/Tiga111)；
 
 往届负责人：
 
 * 2022 第五届：
 
-  🧑‍💻徐金辉[^Profile^](https://github.com/Rocky77JHxu)，🧑‍💻李龙辉，🧑‍💻万枢涵；
-* 2021 第四届：
-
-  🧑‍💻吕述杭[^Profile^](https://github.com/xiaohangguo)，🧑‍💻李程翔，👩‍💻张露；
+  🧑‍💻王智鹏[^Profile^](https://github.com/Rocky77JHxu)；
 
 ### 开源仓库
 
