@@ -1,6 +1,8 @@
 # C_Hub & CodeDriver[牧码南山C/C++团队]
 
-![Static Badge](https://img.shields.io/badge/QT-null?label=C_Hub&color=brightgreen)![Static Badge](https://img.shields.io/badge/Hardware-null?label=C_Hub&color=brightgreen)![Static Badge](https://img.shields.io/badge/6-null?label=stars&color=blue)
+![Static Badge](https://img.shields.io/badge/QT-null?label=C_Hub&color=brightgreen)      ![Static Badge](https://img.shields.io/badge/Hardware-null?label=C_Hub&color=brightgreen)
+
+![Static Badge](https://img.shields.io/badge/6-null?label=stars&color=blue)
 
 ![image](assets/c-logo.png)​
 
